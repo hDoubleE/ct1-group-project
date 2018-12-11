@@ -15,7 +15,7 @@ namespace BlazorApp.Server.DataAccess
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer(@"Server=tcp:ServerName,1433;Initial Catalog=TDatabase;Persist Security Info=False;User ID=UserName;Password=Password;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+                optionsBuilder.UseSqlServer(@"INSERT YOUR CONNECTION STRING HERE WITH YOUR CREDENTIALS;");
             }
         }
     }

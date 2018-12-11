@@ -1,0 +1,12 @@
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.0\BlazorApp.Shared.deps.json
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.0\BlazorApp.Shared.dll
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.0\BlazorApp.Shared.pdb
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\obj\Debug\netstandard2.0\BlazorApp.Shared.csprojAssemblyReference.cache
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\obj\Debug\netstandard2.0\BlazorApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\obj\Debug\netstandard2.0\BlazorApp.Shared.AssemblyInfoInputs.cache
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\obj\Debug\netstandard2.0\BlazorApp.Shared.AssemblyInfo.cs
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\obj\Debug\netstandard2.0\BlazorApp.Shared.dll
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\obj\Debug\netstandard2.0\BlazorApp.Shared.pdb
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\trevo\source\repos\BlazorApp\BlazorApp.Shared\obj\Debug\netstandard2.0\BlazorApp.Shared.csproj.CopyComplete
